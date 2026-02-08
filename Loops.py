@@ -43,11 +43,9 @@ while count <= 5:
 # but it can be created using while True.
 # -------------------------------
 num = 1
-
 while True:
     print(num)
     num += 1
-    
     if num > 5:
         break
 #Output
@@ -148,7 +146,6 @@ for fruit in fruits:
 total = 0
 for i in range(1, 6):
     total += i
-
 print("Sum:", total)
 #Output
 #Sum: 15
