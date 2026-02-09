@@ -13,6 +13,8 @@ This repository contains basic Python programs that help beginners understand co
 * Conditional Statements
 * Data Structures
 * Loops
+* Functions
+* Strings
 
 ---
 
