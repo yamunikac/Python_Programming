@@ -7,14 +7,14 @@ This repository contains basic Python programs that help beginners understand co
 
 ## 📚 Topics Included
 
-* Variables
-* Data Types
-* Operators
-* Conditional Statements
-* Data Structures
-* Loops
-* Functions
-* Strings
+• Variables  
+• Data Types  
+• Operators  
+• Strings  
+• Conditional Statements  
+• Loops  
+• Functions  
+• Data Structures  
 
 ---
 
