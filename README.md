@@ -48,7 +48,6 @@ This repository contains well-structured Python programs designed to help beginn
 ## 🚀 Getting Started
 
 1️⃣ Install Python (3.x recommended)  
-2️⃣ Clone this repository:
+2️⃣ Clone this repository
 
-```bash
-git clone <your-repository-link>
+
